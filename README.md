@@ -1,4 +1,5 @@
-## **Hi there, I'm Mary ! (´｡• ω •｡`)**
+## **Hi, I'm Mary ! ૮ • ﻌ - ა**
 ![](https://i.imgur.com/0FAqfcf.gif)
-- I'm currently just a high school senior student :D
-- Right now, I'm focusing on how to learn python and the basics of computer science.
+I'm currently a high school senior student, interested in all about Computer Science. :)
+Right now, I'm creating small projects to get a little knowledge of what I'm going to study next year. 
+Hoping it's going to be abroad! ⸜(｡˃ ᵕ ˂ )⸝♡
